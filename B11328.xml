@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true recitall touching the cause of the death of Thomas Bales, a seminarie priest, who was hanged and quartered in Fleet-street on Ashwenesdaie last past. 1590 Wherevnto is adioyned the true cause of the death of Annis Bankyn, who vpon the next day following was burned in Saint Georges fields about sixe of the clocke at night.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11328</idno><idno type="EEBO-CITATION">99854411</idno>
+  <idno type="VID">177242</idno>
+  <idno type="EEBO-PROQUEST">2240899216</idno>
+  <idno type="STC">STC 1312.5</idno>
+  <idno type="STC">ESTC S119204</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854411e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 949:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true recitall touching the cause of the death of Thomas Bales, a seminarie priest, who was hanged and quartered in Fleet-street on Ashwenesdaie last past. 1590 Wherevnto is adioyned the true cause of the death of Annis Bankyn, who vpon the next day following was burned in Saint Georges fields about sixe of the clocke at night.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by J. Wolfe] for William Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Formerly STC 1310.</note>
+                  <note>Identified as STC 1310 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bales, Thomas, d. 1590.</term>
+               <term type="personal_name">Bankyn, Annis, d. 1590.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177242:1"/>
+            <pb facs="tcp:177242:1"/>
+            <p>A True Recitall touching the cause of the death of <hi>Thomas Bales,</hi> a Seminarie Priest, who was hanged and quartered in Fleet-street on Ashwednesdaie last past. 1590.</p>
+            <p>Wherevnto is adioyned the true cause of the death of Annis Bankyn, who vpon the next day following was burned in Saint Georges fields about sixe of the clocke at night.</p>
+            <figure>
+               <figDesc>printer's device consisting of an ornamental fleur-de-lis used by William Wright (McKerrow 251)</figDesc>
+            </figure>
+            <p>LONDON <hi>Printed for William Wright</hi> 1590.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177242:2"/>
+            <pb n="1" facs="tcp:177242:2"/>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">O</seg>N wednesdaie being the fourth day of March last 1590. there was a Se<g ref="char:EOLhyphen"/>minarie Priest brought forth of Newgate, who a few daies before had ben iustly condemned for high Treason, where according to his iudge<g ref="char:EOLhyphen"/>ment before past, and the qualitie of his of<g ref="char:EOLhyphen"/>fence, hee was laide vpon a hurdle, and from thence drawne into Holborne, &amp; so through Fetter lane conuaied into Fléet stréet, where was a newe Iebbet set vp for that purpose, &amp; people in great abundance resorted to sée the prisoner executed.</p>
+               <p>This Priest came thether apparelled in the habit of a Gentleman, in a dublet of blacke satten, cut with great cuts, &amp; drawn out with white silke, he had on a paire of small round paine hose, &amp; on euerie paine a faire gold lace, his neather stockes were of purple silke, and a paire of bootes ouer them, Gentleman like, turnd downe at the knée, and faced with vel<g ref="char:EOLhyphen"/>uet, he had a blacke felt hat on his head, &amp; his haire was verie long, so that he could hardly be knowen from an ordinarie Gentleman.</p>
+               <p>Thus being apparelled and come to the place of execution, conducted thether by the shéerife of London, and the officers of the said
+<pb n="2" facs="tcp:177242:3"/> Citie. For that the iebbet was not full ready, the sheerife did withdrawe the prisoner into a house hard by, where an ancient &amp; worship<g ref="char:EOLhyphen"/>full Gentleman in office towards her Maie<g ref="char:EOLhyphen"/>stie, had some time of conference with the pri<g ref="char:EOLhyphen"/>soner. And when euerie thing was in a rea<g ref="char:EOLhyphen"/>dines, the prisoner was brought backe again to be executed. And first before hee went vp, his boots were pulled off, &amp; his neather stocks also, whereby his feete and legs were naked, his other clothes hung loose about him, with his hands tied, &amp; so went hee vp the ladder, the hang-man being then readie on the top of the iebbet to receiue him with the halter, which he put about his neck. Which done, the priest began to speake vnto the people, shewing thē y<seg rend="sup">t</seg> hee was a Priest, &amp; after went about to de<g ref="char:EOLhyphen"/>fend the popish religion colorably, &amp; seemed to <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ie himselfe, by saying he had not offended hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maiestie. Whervpon the Gentleman be<g ref="char:EOLhyphen"/>fore mentioned spake vnto y<seg rend="sup">e</seg> priest, &amp; shewed h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m wherein he had offended the laws of this l<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, in cases of high treason. First, by being a S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minarie Priest therby a sworne enemie to this land and hauing liued out of the lande among her Maiesties enemies, was agayne lately return<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d onelie to persuade her Ma<g ref="char:EOLhyphen"/>iesti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s subiectes from their due obedience. The confession of this priest also taken before
+<pb n="3" facs="tcp:177242:3"/> in writing, was read openly, where he sayde that the Pope hath authoritie to depose the Quéenes Maiesty of England, as though the Queenes Maiestie and the religion now vsed in England, had bin vnder the gouernment of the Pope, and therefore to bee disanulled at the Popes pleasure, whereby hee denied her Maiestie of her supremacie in the Churches of her dominions, which is high treason of it selfe. Last of all, he shewed vnto the people, &amp; auouched it to the prisoners face, (which he coulde not denie) that this priest who was an Englishman borne, and therefore a subiect to her Maiestie, contrarie to his duetie, had betaken himselfe a long time a subiect &amp; ser<g ref="char:EOLhyphen"/>uant to the Pope, with sundrie other, who to<g ref="char:EOLhyphen"/>gether were lately come ouer into England, to persuade her Maiesties subiects from theyr obedience, by becomming assistants and fa<g ref="char:EOLhyphen"/>uourers of a new inuasion, now speedily pre<g ref="char:EOLhyphen"/>tended by the helhounds of the Romish Sina<g ref="char:EOLhyphen"/>gogue, therby to become traitors to her Ma<g ref="char:EOLhyphen"/>iestie, in working the ruine of this lande, as hath bin lately pretended, yet their hope made frustrate by Gods prouidence, who stil doubt<g ref="char:EOLhyphen"/>les sighteth for this land, and defendeth all the true subiects thereof, for the sake of our holie Iudith, who swaieth the sword of iustice with great wisedome and mercie, whose person the
+<pb n="4" facs="tcp:177242:4"/> God of heauen prosper and continue in this land, and grant vnto her long life, and a peace able raigne ouer vs, that during her life she may so quaile the hearts of all the enimies to this land, that none hereafter may dare to at<g ref="char:EOLhyphen"/>tempt the hurt thereof. This Popish Priest aforesaid, after a few Popish praiers mum<g ref="char:EOLhyphen"/>bled to himselfe, was turned from of the lad<g ref="char:EOLhyphen"/>der, and permitted to hang vntil he was dead, and after was quartered in seuerall péeces, to be set vp in seuerall places, to the example of al other hereafter. And ouer the Iebbet was written in great letters the cause of his death in these wordes, viz.<lb/>
+                  <hi>For Treason and sauoring of for<g ref="char:EOLhyphen"/>raine Inuasion.</hi>
+               </p>
+               <p>In the forenoone of the same daie also, there were two hanged, the one in Smithfield, and the other in the fieldes at Graies Inne lane end, for secret harboring, receiuing and deny<g ref="char:EOLhyphen"/>ing this Priest &amp; others such pernitious per<g ref="char:EOLhyphen"/>sons, by whose meanes great hurt may arise. The one died a very obstinate Papist, the o<g ref="char:EOLhyphen"/>ther a very penitent person, sorie that hee had transgressed her Maiesties laws in that case: which thing he onely did for worldly benefit. To conclude, let this their follie forewarne al others, how they enter into such actions, and
+<pb n="5" facs="tcp:177242:4"/> refraine from secret harbouring, releeuing or succouring such leud persons, who seeke by all possible meanes to ruinate this lande, by de<g ref="char:EOLhyphen"/>priuing the Quéenes most excellent Ma<g ref="char:EOLhyphen"/>iestie, and bringing in forraine enimies: that by inuasion they may shedde the bloude of innocents, and roote out all her Maiesties louing subiects, which God grant may neuer come to passe, Amen.</p>
+            </div>
+            <div type="part">
+               <head>A woman executed on the Thurs<g ref="char:EOLhyphen"/>daie following.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>N the Thursdaie following there was a rumour throughout Lon<g ref="char:EOLhyphen"/>don, that a maide seruant shoulde be burned in S. Georges fieldes, which but two daies before (at the Assizes holden in Southwarke for the Countie of Surrey) had bin found guilty, condemned and iudged so to suffer death for murther by her committed. Wherevpon a stake was set vp in the said fielde, and the réedes and faggots brought thether, but by reason of the throng of people which came thether out of London, they were constrained to defer the execution vntil after sixe of the clocke at night, at which time the greater multitude being departed, the prisoner was brought forth sodenly, and
+<pb n="6" facs="tcp:177242:5"/> conuaied into the field, without anie notire giuen to anie of the people otherwise, then that she should be burned in the place where the stake before stood, to which place the peo<g ref="char:EOLhyphen"/>ple flocked in great abundance. Now the shi<g ref="char:EOLhyphen"/>refe and the warders that accompanied him, perceiuing the vnrulines of the people to bee great, sodenly cast themselues in a round, and vpon a faire gréene place in the waie as they came, digged a hole, and therein pitched the stake, and fastned the prisoner therunto, who came thether in this sort: shee being stripped out of her clothes in the prisō before she came forth, had nothing vpon her but a wide frocke downe to her foote, made of course canuas, gathered about the wristes, with an olde neckinger about her necke, and a faire ker<g ref="char:EOLhyphen"/>cher vppon her head, about her necke there was a long yron chaine fastned, whereby she was lead, and came wallowing like a Beare to the stake, according to her ordinarie vse of going when she was in seruice. And beeing fastned to the stake with two yron chaines, réeds were set round about her, and faggots of very day stickes planted by them, in which shee was wholy incompassed, and nothing to be seen of her roūd about, but only her face, on one side the reedes looking forth. And so with as much speed as might be, after the mi<g ref="char:EOLhyphen"/>nisters
+<pb n="7" facs="tcp:177242:5"/> had persuaded her to call vppon God, and to arme her self with patience, and not to feare death, with other good admonitions for her soules health. Hauing saide the Lordes praier, &amp; asked God &amp; al the world forgiuenes, the reeds were set on fire first vnderneath hir with a Linke, &amp; then round about her, wher<g ref="char:EOLhyphen"/>of the reedes and dry faggots tooke speedie hold, and so soone as she felt the force &amp; fierce<g ref="char:EOLhyphen"/>nes of the fire to touch hir, she cried out twice saying, alasse, alasse, and hauing called vppon God, euen in short space the smoke and vapor of the fire choked hir, that she was soone dead, and so continued in the fire vntil she was con<g ref="char:EOLhyphen"/>sumed to ashes. Now forsomuch as the most part of people coulde neither see the prisoner, nor knowe the true circumstaunce of her of<g ref="char:EOLhyphen"/>fence, whereby her death iustly ensued, it is thought conuenient that the same be here ex<g ref="char:EOLhyphen"/>pressed, to the intent she may bee an example to others to auoide the like wickednes.</p>
+               <p>This person whome I can neither call by the name of maide, wife nor widowe, for that she was neuer maried, and yet hath had three or foure children, did remain in and about the Borough of Southwarke a long time, and was when she died about two &amp; forty yeeres of age, and about two yeeres since came into the seruice of one <hi>Lewes Bell</hi> a Water-man
+<pb n="8" facs="tcp:177242:6"/> dwelling on the banke side néere the Clinke, he beeing a man of good reputation &amp; calling, and one that hath borne the most part of offi<g ref="char:EOLhyphen"/>ces to be borne among the inhabitants there<g ref="char:EOLhyphen"/>about, and before she came into this mannes seruice, she had dwelt with a Mistres within Chain-gate, whom she robbed of ten pounds, yet conuaied it so secretly, as she went vnsu<g ref="char:EOLhyphen"/>spected for the same: she heing new come into the seruice of the said <hi>Bell,</hi> who had an honest aged woman to his wife then liuing, which this wicked person soone dispatched with poi<g ref="char:EOLhyphen"/>son, wherof shortly after her mistres died, and nothing sayd nor suspected. This was about two yeres since. After this, as some saith, she perswaded her selfe, that her maister woulde haue married her, which he neuer promised to do, nor intended anie such matter towardes her, neither was there anie reason he shoulde so do, because she was ill fauoured, vnhand<g ref="char:EOLhyphen"/>some, and foolish, her looks were crabbed, her behauiour vnseemly, and in qualities sluttish: yet inwardly subtill, so that about Midsom<g ref="char:EOLhyphen"/>mer last her maister married a widow, being a very honest and comely woman, and of rea<g ref="char:EOLhyphen"/>sonable yeeres, whom as it seemeth, this bad creature secretly enuied for marrying hir ma<g ref="char:EOLhyphen"/>ster, and shortly after this woman sel sicke in verie grieuous sort, &amp; lay languishing a long
+<pb n="9" facs="tcp:177242:6"/> time of the saide disease, which in deede was poisoned potage, wherof she did eate but a lit<g ref="char:EOLhyphen"/>tle, wherevpon her eies watered grieuously, and her stomacke was very ill. This woman had two wenches in the house dwelling with her, the yonger of them séeing her mistres set by the potage, tooke them and did eate them, whereof soone after she swelled vpward in the throate and so died. This was about Saint <hi>Iames</hi> tide last. The bigger girle hauing had some tast of the same, sickned also, so that the haire fell off from her head, and broke out in verie ill fauoured sort, but being strong of na<g ref="char:EOLhyphen"/>ture escaped death. All which notwithstan<g ref="char:EOLhyphen"/>ding, there arose no doubte nor suspition of poisoning, by her to be attempted, vntil about Barthelmew tide following, at which time her mistres being recouered of her grieuous and strange disease, tooke occasion to put her awaie, willing her to prouide for her self, and so she did. Whereupon on the daie before, she should departe from her said mistres seruice, she hauing carried awaie all her apparell and furniture, promised that night to come and sup with her master and mistres, and to giue them a posset: she being departed, there was missed the summe of fifteene shillings, which by her had beene taken forth of a cubborde: Whereupon the good man sent his wife to
+<pb n="10" facs="tcp:177242:7"/> séeke hir, whom with much a doe she brought home, where the good man in searching her, found the most part of his wiues monie, and besides, found a paper of poison in her bosom, which he did not know to be poison, vntyll one of his neighbours being a Surgion, was sent for to sée the same, who tolde him that it was poison, and although they did demand of her to what vse she bought or kept it, yet would she not confesse the same, vntill they brought her before a Iustice, to whom with much a do, &amp; the secret working of Almighty God, who wold haue the truth of such wicked<g ref="char:EOLunhyphen"/>nes come to light, she confessed as followeth. First, that she had with poison murdered her olde mistres, about Saint <hi>Andrews</hi> tide was twelue moneth. Item, that she had once at<g ref="char:EOLhyphen"/>tempted to murther her mistres now beeing, with poison, whereof she sel sicke, but recoue<g ref="char:EOLhyphen"/>red againe, by giuing her poison in a messe of pottage. Item, that her mistres eating but two or thrée spoonefulls of the said potage, did set them by and would eate no more, and then the yonger wench in the house did eate vp the rest of the sayd pottage, and soone after dyed thereof. Item, she confessed that she had ta<g ref="char:EOLhyphen"/>ken ten pounds from hir mistres that she ser<g ref="char:EOLhyphen"/>ued before within Chaine-gate, and that shee had dispersed the same, and lent it foorth to
+<pb n="11" facs="tcp:177242:7"/> sundrie persons. She also confessed that shee had taken the sayde fiftéene shillings foorth of her mistres cubbord, by taking her key from vnder her beds head when she was a sleepe. And lastly being demanded what her intent was to do with that poison, which was found about her, she confessed that her intent and meaning was euen that night to haue poiso<g ref="char:EOLhyphen"/>ned her mistres, by putting the same poison into the posset which was promised to be ea<g ref="char:EOLhyphen"/>ten at her mistres house that night. Where<g ref="char:EOLhyphen"/>of must néeds haue ensued farre greater dan<g ref="char:EOLhyphen"/>ger both to her mistres, &amp; to her master, with the rest of the householde, had not God verie miraculously, as you haue heard before pre<g ref="char:EOLhyphen"/>uented it.</p>
+               <p>Thus haue you hearde howe the deuill wrought with this wicked creature from time to time. First he allured her by idlenesse and fleshly desires to become incontinent, and to leade a verie loose and lasciuious life, by ha<g ref="char:EOLhyphen"/>uing one childe after another, and yet neuer married nor liuing satisfied, but liued lyke a dog that stil returned to his olde vomit. Here<g ref="char:EOLhyphen"/>vpon a couetous desire of wealth made her pilfer and picke from one mistres and then from another, so that for want of the feare of God, one sinne tooke hold of another, and for<g ref="char:EOLhyphen"/>ced her to murther an honest olde woman
+<pb n="12" facs="tcp:177242:8"/> with poison, and so from her to another, see<g ref="char:EOLhyphen"/>king to worke confusion vpon confusion, vn<g ref="char:EOLhyphen"/>till God by his wonderfull prouidence did bring the same to light, and forced her owne heart and tongue to reueale her abhominable wickednes, onely to bring her selfe to shame and confusion, which by sentence of iustice was compassed, who awarded her due iudg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment agréeable to her wicked deserts.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177242:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
